@@ -24,7 +24,7 @@ freelance.ru
 
 Язык программирования: Python​
 
-##Библиотеки:
+## Библиотеки:
 
 aiogram для работы с Telegram API​
 
